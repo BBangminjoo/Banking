@@ -12,6 +12,7 @@
         </ul> 
     </div> 
     </div>
+    <br><br>
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">🎯 기능</h2>
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li><br>
@@ -89,24 +90,24 @@
             <dd>- 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제</dd>
         </dl>
 </div>
-
+<br><br>
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">✏️ 지식</h2>
         <ul>
         <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> /                             <code>List</code> / <code>HashMap</code> / <code>Dao</code> </li>
         </ul>
 </div>
-
+<br><br>
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">📆 소요기간</h2>
     <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
 </div>    
-
+<br><br>
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">📌 프로젝트 설명</h2>
     <li> 하나은행 데이터를 활용하여 진행된 <strong>2인 프로젝트</strong>입니다. </li>
 </div>    
-
+<br><br>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
