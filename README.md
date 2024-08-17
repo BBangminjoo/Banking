@@ -14,7 +14,7 @@
     </div>
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">🎯 기능</h2>
-        <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li>
+        <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li><br>
         <li><strong>세부기능</strong></li>
             <h5>&lt;회원관리&gt;</h5>
         <ol>
@@ -92,10 +92,9 @@
 
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">✏️ 지식</h2>
-
-        <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> / <code>List</code> / 
-            <code>HashMap</code> / <code>Dao</code> </li>
-
+        <ul>
+        <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> /                             <code>List</code> / <code>HashMap</code> / <code>Dao</code> </li>
+        </ul>
 </div>
 
 <div style="text-align: left;">
