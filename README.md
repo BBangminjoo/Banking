@@ -14,6 +14,102 @@
              고객의 편의성과 만족도를 향상시킨다. </li>
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 
             은행 지점별, 지역별 위치 검색, 게시판 작성</li> 
+
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>
+                세부기능
+            &lt;회원관리&gt;
+            1) 회원가입
+            - 아이디 : 4자 이상 15자 이하
+            - 비밀번호 : 4자 이상 15자 이하
+            - 이름 : 10자 이내의 한글
+            - 생년월일 : ex) 20240412
+            - 주소 : ex) 대전광역시 중구...
+            - 전화번호 : 13자의 숫자
+
+            2) 로그인, 로그아웃
+          
+            3) 아이디 찾기
+            : 등록한 이름 , 전화번호 입력
+
+            4) 회원정보 수정
+            - 비밀번호, 전화번호 수정
+            
+            5) 회원 탈퇴
+            - 비밀번호 확인 후 계정 삭제
+
+ 
+            &lt;상품가입&gt;
+            1) 은행상품 전체 및 상세 조회
+            2) 상품 가입, 해지
+            - 중도 해지 지 현재 입금 금액 다른 계좌로 반환
+
+ 
+            &lt;입출금 및 이체 관련&gt;
+            1) 입출금 
+            - 계좌번호, 금액 작성 후 잔액 감소 및 해당 계좌 금액 증가
+            - 이체 : 계좌번호, 금액 입력받아 상대계좌로 금액 이체
+
+ 
+            &lt;방문예약&gt;
+            - 예약 : 해당 지점별 예약 번호 발급 받고 예약 여부 입력
+            - 예약 취소 : 예약 여부 확인 후 예약 취소 (번호표 삭제)
+
+ 
+            &lt;지점 위치 확인&gt;
+            - 지역별 : 검색 지역별 번호 입력 후 지역 지점 출력
+            - 지점 : 지점 입력 후 지점 출력
+
+ 
+            &lt;관리자&gt;
+            - 공지사항 게시판 : 관리자가 조회, 작성, 수정, 삭제
+
+ 
+            &lt;게시판&gt;
+             - 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제
+
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="안녕하세요! 우테코 식당 12월 이벤트 플래너입니다.
+12월 중 식당 예상 방문 날짜는 언제인가요? (숫자만 입력해 주세요!)
+3
+주문하실 메뉴를 메뉴와 개수를 알려 주세요. (e.g. 해산물파스타-2,레드와인-1,초코케이크-1)
+티본스테이크-1,바비큐립-1,초코케이크-2,제로콜라-1
+12월 3일에 우테코 식당에서 받을 이벤트 혜택 미리 보기!
+ 
+<주문 메뉴>
+티본스테이크 1개
+바비큐립 1개
+초코케이크 2개
+제로콜라 1개
+ 
+<할인 전 총주문 금액>
+142,000원
+ 
+<증정 메뉴>
+샴페인 1개
+ 
+<혜택 내역>
+크리스마스 디데이 할인: -1,200원
+평일 할인: -4,046원
+특별 할인: -1,000원
+증정 이벤트: -25,000원
+ 
+<총혜택 금액>
+-31,246원
+ 
+<할인 후 예상 결제 금액>
+135,754원
+ 
+<12월 이벤트 배지>
+산타" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+            
         <br>    
         <li> <strong>선수지식</strong> : SQL / Method / List / HashMap / Dao </li>
         <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
