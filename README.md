@@ -11,38 +11,6 @@
         <li> <strong>개발목표</strong> : 회원에게 실시간으로 최신 금융 시장 동향 및 상품 등 다양한 금융 정보를 제공함으로써 고객의 편의성과 만족도를 향상시킵니다. </li><br>
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li>
         <li> <strong>세부기능</strong> </li>
-	<table border="1">
-		<tr>
-			<th colspan="2">회원관리</th>
-		</tr>
-		<tr>
-			<th colspan="2">회원가입</th>		
-		</tr>
-		<tr>
-			<th>아이디</th>
-			<td>4자 이상 15자 이하</td>
-		</tr>	
-		<tr>
-			<th>비밀번호</th>
-			<td>4자 이상 15자 이하</td>
-		</tr>	
-		<tr>
-			<th>이름</th>
-			<td>10자 이내의 한글</td>
-		</tr>	
-		<tr>
-			<th>생년월일</th>
-			<td>ex) 20240412</td>
-		</tr>	
-		<tr>
-			<th>주소</th>
-			<td>ex) 대전광역시 중구...</td>
-		</tr>	
-		<tr>
-			<th>전화번호</th>
-			<td>13자의 숫자</td>
-		</tr>	
-	</table>
             
         <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> / <code>List</code> / <code>HashMap</code> / <code>Dao</code> </li>
         <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
