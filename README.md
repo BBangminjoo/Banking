@@ -13,6 +13,9 @@
         <li> 선수지식 : SQL / Method / List / HashMap / Dao </li>
         <li> 프로젝트 소요기간 : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
             <li> 하나은행 데이터를 활용하여 진행된 2인 프로젝트입니다. </li>
+
+        <img src="/bankmain.png" alt="" style="max-width: 100%;">
+            
         </ul> 
     </div> 
     </div>
