@@ -12,7 +12,7 @@
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li>
         <li> <strong>세부기능</strong> </li>
             
-        <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> / <code>List</code> / <code>HashMap</code> / <code>Dao</code> </li>
+        <li> 선수지식 : SQL / Method / List / HashMap / Dao </li>
         <li> 프로젝트 소요기간 : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
             <li> 하나은행 데이터를 활용하여 진행된 2인 프로젝트입니다. </li>
         </ul> 
@@ -35,5 +35,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBangminjoo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-
     
