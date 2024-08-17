@@ -17,7 +17,6 @@
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
     <pre class="notranslate">
-        <code>
 세부기능
 <회원관리>
 회원가입
@@ -89,7 +88,6 @@
 <게시판>
 - 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제
 
-</code>
 </pre>
 </div>
         <br>    
