@@ -13,8 +13,8 @@
         <li> <strong>세부기능</strong> </li>
             
         <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> / <code>List</code> / <code>HashMap</code> / <code>Dao</code> </li>
-        <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
-            <li> 하나은행 데이터를 활용하여 진행된 <strong>2인 프로젝트</strong>입니다. </li>
+        <li> 프로젝트 소요기간 : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
+            <li> 하나은행 데이터를 활용하여 진행된 2인 프로젝트입니다. </li>
         </ul> 
     </div> 
     </div>
@@ -24,4 +24,16 @@
           <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://passionate-developer.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://passionate-developer.tistory.com/"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=BBangminjoo&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBangminjoo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+
     
