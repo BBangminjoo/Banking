@@ -16,8 +16,7 @@
 <div style="text-align: left;">
     <h2 tabindex="-1" class="heading-element" dir="auto">🎯 기능</h2>
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li><br>
-        <li><strong>세부기능</strong></li>
-    <code>      
+        <li><strong>세부기능</strong></li>    
     <h5>&lt;회원관리&gt;</h5>
         <ol>
             <li>회원가입</li>
@@ -89,8 +88,7 @@
         <h5>&lt;게시판&gt;</h5>
         <dl>
             <dd>- 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제</dd>
-        </dl>
-     </code>    
+        </dl>  
 </div>
 <br><br>
 <div style="text-align: left;">
