@@ -21,7 +21,7 @@
      <ul dir="auto"> 
          <li><strong>세부기능</strong></li> 
     <h5>&lt;회원관리&gt;</h5>
-        <ol>
+        <ul type="circle">
             <li>회원가입</li>
                <dl>
                    <dd>- 아이디 : 4자 이상 15자 이하</dd>
