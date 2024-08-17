@@ -10,6 +10,18 @@
         <li> <strong>선정이유</strong> : 은행 지점 방문 없이도 거래를 쉽게 하거나, 예약 서비스를 통해 대기 시간을 줄임으로써 시간과 노력을 절약하기 위함이다.</li>
         <li> <strong>개발목표</strong> : 회원에게 실시간으로 최신 금융 시장 동향 및 상품 등 다양한 금융 정보를 제공함으로써 고객의 편의성과 만족도를 향상시킨다. </li>
         <li> <strong>주요기능</strong> : 회원가입 및 로그인, 은행 방문예약, 내 자산 조회, 상품 가입, 입출금 및 이체 거래, 은행 지점별, 지역별 위치 검색, 게시판 작성</li>
+        <li><strong>세부기능</strong></li>
+            <h5>&lt;회원관리&gt;</h5>
+        <ol>
+            <li>회원가입</li>
+               <dl>
+                  <dt>- 아이디 : 4자 이상 15자 이하</dt>
+               </dl>
+            <li>로그인, 로그아웃</li>
+            <li>아이디 찾기</li>
+            <li>회원정보 수정</li>
+            <li>회원 탈퇴</li>
+        </ol>    
         <li> <strong>선수지식</strong> : <code>SQL</code> / <code>Method</code> / <code>List</code> / 
             <code>HashMap</code> / <code>Dao</code> </li>
         <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
