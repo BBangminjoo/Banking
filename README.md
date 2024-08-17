@@ -6,6 +6,7 @@ Banking System
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 은행업무시스템 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+       <ul dir="auto">
         <li>각 회원에게 최적화 및 개인화된 금융 서비스를 제공하는 은행업무시스템입니다.</li><br>
         <li>활용분야 : 회원은 금융 상품 및 정보, 예약 등을 편리하게 할 수 있으며, 은행은 인력이나 시설 등<br>
             운영 비용을 절감하면서 고객의 선호와 필요에 맞춘 상품 추천을 통해 더 유리한 금리나 수수료를 제공하도록 합니다.</li>
@@ -22,7 +23,8 @@ Banking System
         <li>프로젝트 소요기간 : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
         <br>
         <li>하나은행 데이터를 활용하여 진행된 2인 프로젝트입니다.</li></div> 
-    </div>
+    </ul> 
+       </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
