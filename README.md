@@ -94,10 +94,4 @@
             <dd>- 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제</dd>
         </dl>
 </div>
-    
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          </div>
-    </div>
+
