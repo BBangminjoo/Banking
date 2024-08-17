@@ -80,12 +80,12 @@
 
 <li>게시판</li>
 - 일반 게시판 : 회원이 게시글 및 댓글 조회, 작성, 수정, 삭제
+        </ul> 
 
         <br>    
         <li> <strong>선수지식</strong> : SQL / Method / List / HashMap / Dao </li>
         <li> <strong>프로젝트 소요기간</strong> : 2024.04.12 ~ 2024.04.18(7일, 주말포함)</li>
             <li> 하나은행 데이터를 활용하여 진행된 "2인 프로젝트"입니다. </li>
-        </ul> 
     </div> 
     </div>
     <div style="text-align: left;">
