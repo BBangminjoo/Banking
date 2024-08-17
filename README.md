@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=009577&height=180&text=Java%20Basic%20Project&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 은행업무시스템 </h2>  
+    <h2 tabindex="-1" class="heading-element" dir="auto">💸 은행업무시스템</h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <ul dir="auto">
         <li><strong>각 회원에게 최적화 및 개인화된 금융 서비스를 제공하는 <code>은행업무시스템</code>입니다.              </strong></li>
