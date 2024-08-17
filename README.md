@@ -13,7 +13,7 @@
         <li> <strong>세부기능</strong> </li>
 	<table border="1">
 		<tr>
-			<th colspan="2" style="text-align: left;>회원관리</th>
+			<th colspan="2">회원관리</th>
 		</tr>
 		<tr>
 			<th colspan="2">회원가입</th>		
