@@ -1,6 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=009577&height=180&text=Java%20Basic%20Project&animation=&fontColor=000000&fontSize=70" />
-    </div>
+    </div>  
     <div style="text-align: left;"> 
     <h2 tabindex="-1" class="heading-element" dir="auto">💸 은행업무시스템</h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
