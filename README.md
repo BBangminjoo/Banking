@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 tabindex="-1" class="heading-element" dir="auto">💸 은행업무시스템</h2> 
         <h4>관리자 시연 영상</h4>
-        <img src="[https://github.com/user-attachments/assets/f49017e0-bbba-4e38-bf71-31a81dd66a77](https://github.com/user-attachments/assets/e600677f-78c6-4235-95b5-606ed4b30e33)">
+        <img src="https://github.com/user-attachments/assets/f49017e0-bbba-4e38-bf71-31a81dd66a77](https://github.com/user-attachments/assets/e600677f-78c6-4235-95b5-606ed4b30e33">
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         <ul dir="auto">
         <li><strong>각 회원에게 최적화 및 개인화된 금융 서비스를 제공하는 <code>은행업무시스템</code>입니다.              </strong></li>
